@@ -9,7 +9,6 @@ Penetration tester & Red-Team engineer — web, mobile, AI & Active Directory. C
 - 🪓 Tooling: PoC & exploit development, maintenance & forking of legacy tools, CI for red-team automation
 - 🛠️ Dev: Node/Python, full-stack experience (startup product mindset)
 - 🎱 Ops: containerization, CI/CD, deployment of tooling for internal use
-- 🗣️ Speaker: conference talks on [OFFZONE](https://www.youtube.com/watch?v=lNo1qnu8h-0) and [PHDays](https://youtu.be/uUhGogya_hM)
 
 ---
 Open to full-time pentest/red-team roles, contract assessments, tool collaborations, and speaking invites: abulgakovv@outlook.com
